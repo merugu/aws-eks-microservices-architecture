@@ -39,7 +39,7 @@ TODO: This repo give the complete guide to deploy microservices on AWS EKS
 3. Serverless Architecture: https://lnkd.in/gQNAXKkb
 4. Microservices Architecture: https://lnkd.in/gFXUrz_T
 
-👍 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐂𝐨𝐝𝐢𝐧𝐠 𝐑𝐨𝐮𝐧𝐝 𝐚𝐧𝐝 𝐋𝐨𝐰 𝐋𝐞𝐯𝐞𝐥 𝐃𝐞𝐬𝐢𝐠𝐧 𝐏𝐫𝐨𝐛𝐥𝐞𝐦𝐬
+👍 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐂𝐨𝐝𝐢𝐧𝐠 𝐚𝐧𝐝 𝐋𝐨𝐰 𝐋𝐞𝐯𝐞𝐥 𝐃𝐞𝐬𝐢𝐠𝐧 𝐏𝐫𝐨𝐛𝐥𝐞𝐦𝐬
 1. Design a Parking Lot: https://lnkd.in/dQaAuFd2
 3. Design Chess Validator: https://lnkd.in/dfAQHvN4
 4. Design a Distributed Queue | Kafka: https://lnkd.in/dQ6_B4_M
